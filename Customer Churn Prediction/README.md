@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction using Machine Learning
+#  Customer Churn Prediction using Machine Learning
 
 An end-to-end Machine Learning project that predicts customer churn for a subscription-based service using **Decision Tree** and **Support Vector Machine (SVM)**. The project demonstrates the complete ML pipeline, including data preprocessing, exploratory data analysis (EDA), feature selection, model comparison, cross-validation, hyperparameter tuning, and business recommendations.
 
@@ -59,7 +59,7 @@ The project follows a structured machine learning workflow, from raw data prepro
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Jupyter Notebook / Google Colab
@@ -72,7 +72,7 @@ The project follows a structured machine learning workflow, from raw data prepro
 
 ---
 
-# 📖 Project Workflow
+## Project Workflow
 
 ```
 Dataset
@@ -118,7 +118,7 @@ Business Recommendations
 
 ---
 
-# 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
 
@@ -133,7 +133,7 @@ The following analyses were performed:
 
 ---
 
-# 🔍 Feature Selection Techniques
+##  Feature Selection Techniques
 
 Three feature selection methods were implemented:
 
@@ -151,7 +151,7 @@ Ranked features based on their contribution to prediction performance.
 
 ---
 
-# 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following classification models were trained and compared:
 
@@ -165,7 +165,7 @@ Both models were evaluated using:
 
 ---
 
-# ✅ Cross Validation
+##  Cross Validation
 
 To ensure reliable model performance, **5-Fold Cross Validation** was applied during model comparison.
 
@@ -173,7 +173,7 @@ This reduces dependency on a single train-test split and provides a more robust 
 
 ---
 
-# ⚙️ Hyperparameter Tuning
+##  Hyperparameter Tuning
 
 The best-performing model was optimized using **GridSearchCV**.
 
@@ -187,7 +187,7 @@ The tuned model was selected based on cross-validation accuracy.
 
 ---
 
-# 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 The following evaluation metrics were used:
 
@@ -201,7 +201,7 @@ The following evaluation metrics were used:
 
 ---
 
-# 📊 Results
+##  Results
 
 The tuned **Support Vector Machine (SVM)** achieved the best overall performance among all evaluated models.
 
@@ -215,7 +215,7 @@ The tuned **Support Vector Machine (SVM)** achieved the best overall performance
 
 ---
 
-# 📷 Project Outputs
+##  Project Outputs
 
 The repository includes:
 
@@ -228,7 +228,7 @@ The repository includes:
 
 ---
 
-# 💡 Business Insights
+##  Business Insights
 
 The analysis identified several important factors contributing to customer churn:
 
@@ -240,7 +240,7 @@ The analysis identified several important factors contributing to customer churn
 
 ---
 
-# 🚀 Business Recommendations
+##  Business Recommendations
 
 ### 1. Target High-Risk Customers
 
@@ -256,7 +256,7 @@ Offer discounts or incentives for annual subscription plans to increase customer
 
 ---
 
-# 📁 Repository Structure
+##  Repository Structure
 
 ```
 Customer-Churn-Prediction/
@@ -290,7 +290,7 @@ Customer-Churn-Prediction/
 
 ---
 
-# ▶️ How to Run
+##  How to Run
 
 1. Clone the repository.
 
@@ -314,7 +314,7 @@ jupyter notebook
 
 ---
 
-# 📌 Future Improvements
+##  Future Improvements
 
 * Deploy the model using Streamlit.
 * Build a web interface for real-time churn prediction.
@@ -325,7 +325,7 @@ jupyter notebook
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Vedant Tule**
 
