@@ -219,27 +219,27 @@ The tuned **Support Vector Machine (SVM)** achieved the best overall performance
 
 The repository includes:
 
-* Customer Churn Distribution
+##### 1. Customer Churn Distribution
   
  <img width="549" height="393" alt="Churn distribution" src="https://github.com/user-attachments/assets/906dbfb8-d341-4a33-a10b-c4399a271005" />
   
-* Correlation Heatmap
+##### 2. Correlation Heatmap
 
  <img width="1293" height="1096" alt="Correlation heatmap" src="https://github.com/user-attachments/assets/e2af86cd-a194-4a04-8c94-2379a0008e64" />
   
-* Feature Importance Plot
+##### 3. Feature Importance Plot
 
  <img width="944" height="701" alt="RF feature importance" src="https://github.com/user-attachments/assets/1ecf86f5-7d1b-4eae-8a6b-50206927c697" />
   
-* Model Comparison Charts
+##### 4. Model Comparison Charts
 
  <img width="768" height="470" alt="Final results" src="https://github.com/user-attachments/assets/810f5b9d-e3f4-425d-96e3-504db05223ff" />
   
-* ROC Curve
+##### 5. ROC Curve
 
  <img width="691" height="547" alt="ROC-AUC curve" src="https://github.com/user-attachments/assets/66d188ac-de24-4541-a06c-7a29b5ca97f8" />
   
-* Confusion Matrix
+##### 6. Confusion Matrix
 
  <img width="507" height="455" alt="Confusion matrix" src="https://github.com/user-attachments/assets/36fab365-2876-4014-8bae-ebd42b9108c1" />
   
